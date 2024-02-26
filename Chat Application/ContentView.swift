@@ -1,24 +1,23 @@
+////
+////  ContentView.swift
+////  Chat Application
+////
+////  Created by Darahaas Nallagatla on 2/24/24.
+////
 //
-//  ContentView.swift
-//  Chat Application
-//
-//  Created by Darahaas Nallagatla on 2/24/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        ChatViewControllerWrapper()
         }
-        .padding()
+        
     }
-}
+
+
+
 
 #Preview {
     ContentView()
 }
+
