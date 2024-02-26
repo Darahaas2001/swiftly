@@ -57,7 +57,8 @@ yarn start
 
 This will run your Node.js application as defined in the `start` script of your `package.json`.
 
-## Conclusion
+## Video
 
-You've now set up your iOS project with CocoaPods, run it in Xcode, and set up and started your Node.js server using Yarn. Happy coding!
-<video src='https://auburn.app.box.com/file/1453907920667?s=odc4xnmec2sum03vxmtq3umjwh7fmshe' width=180/>
+For code execution watch the video:
+
+[Click here to watch the video](https://auburn.app.box.com/file/1453907920667?s=odc4xnmec2sum03vxmtq3umjwh7fmshe)
